@@ -1,12 +1,12 @@
 import React from 'react';
 import Footer from '../../components/Footer/Footer';
 import Header from '../../components/Header/Header';
-import Main from '../../components/Main/Main';
+import Mains from '../../components/Mains/Mains';
 
 const Home = () => {
     return(
         <>
-        <Main/>
+        <Mains/>
         <Header/>
         <section className="aboutWeb">
         <h1>About WebSite</h1>

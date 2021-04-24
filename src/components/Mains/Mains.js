@@ -1,7 +1,7 @@
 import React from 'react';
 import Navigation from '../Navigation/Navigation';
 
-const Main = () => {
+const Mains = () => {
     return(
         <>
         <Navigation/>
@@ -11,4 +11,4 @@ const Main = () => {
     );
 }
 
-export default Main;
+export default Mains;
