@@ -1,6 +1,4 @@
 import React from 'react';
-import Main from '../Mains/Mains';
-
 const Footer = () => {
     return(
        <footer>
